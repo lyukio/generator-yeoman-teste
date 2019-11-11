@@ -1,6 +1,6 @@
 {
   "name": "generator-yeoman-teste",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generator created for test purpose only! Please don't use it!",
   "files": [
     "generators",

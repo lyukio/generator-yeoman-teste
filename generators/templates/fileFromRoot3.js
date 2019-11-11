@@ -1,0 +1,1 @@
+console.log("templates/fileFromRoot3.js")

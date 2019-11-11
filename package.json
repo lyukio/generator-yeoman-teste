@@ -3,8 +3,8 @@
   "version": "1.0.2",
   "description": "Generator created for test purpose only! Please don't use it!",
   "files": [
-    "app",
-    "router"
+    "generators",
+    "folderTest"
   ],
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,7 @@
   "author": "Lyukio",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "yeoman-generator": "^4.2.0"
   }
 }

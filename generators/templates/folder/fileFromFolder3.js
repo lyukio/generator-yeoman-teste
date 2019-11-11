@@ -1,0 +1,1 @@
+console.log("templates/fileFromFolder3.js")

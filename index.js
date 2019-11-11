@@ -1,6 +1,11 @@
 var Generator = require('yeoman-generator');
 
 module.exports = class extends Generator {
+    constructor(args, opts) {
+        super(args, opts);
+        this.log('Initializing...');
+    }
+
     method1() {
         this.log('method 1 just ran');
     }
